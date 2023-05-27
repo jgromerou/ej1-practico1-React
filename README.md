@@ -1,5 +1,14 @@
 # Ejercicio 1 del TP1: React ![React Icon](./src/assets/react.svg)
 
+## Descripción
+
+Crear una aplicación web con un componente que muestre en pantalla el mensaje
+“Hello World”.
+
+## Link Versión en Producción
+
+[Netlify](ej1-tp1-react-rolling-romerouro.netlify.app)
+
 ## Tecnologias / Herramientas 🛠
 
 - [HTML](https://developer.mozilla.org/es/docs/Web/HTML)
